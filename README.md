@@ -39,10 +39,6 @@ Hello, my name is Dario Ponce, I am a Full Stack Web developer. I am a technolog
         <span>NodeJs</span><br><br><br>
         <img height="64px" src="https://img.icons8.com/color/2x/nodejs.png">
       </td>
-       <td width="25%" align="center">
-        <span>PostgreSQL</span><br><br><br>
-        <img height="64px" src="https://es.wikipedia.org/wiki/PostgreSQL#/media/Archivo:Postgresql_elephant.svg">
-      </td>
     </tr>
   </tbody>
 </table>
