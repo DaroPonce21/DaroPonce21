@@ -76,7 +76,7 @@ Hello, my name is Dario Ponce, I am a Full Stack Web developer. I am a technolog
 <hr>
 
 <h3>Thanks for Stopping by!! 😊</h3>
-<img align='right' src="https://www.instagram.com/p/CjQfB8_g3nV/" width="230">
+
 
 
 ---
