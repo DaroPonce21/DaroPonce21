@@ -59,7 +59,7 @@ Hello, my name is Dario Ponce, I am a Full Stack Web developer. I am a technolog
 
 <p align="center">
   <br/>
-  [![Gmail Badge](https://img.shields.io/badge/-AilenDeSantis-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:ailenm.de.santis@gmail.com)](mailto:ailenm.de.santis@gmail.com)
+  
   <a href="https://www.linkedin.com/in/dario-ponce/">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white">
   </a>
