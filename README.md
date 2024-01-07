@@ -1,12 +1,15 @@
-## Hey , I'm [DARO!](https://github.com/DaroPonce21) !! <img src="https://raw.githubusercontent.com/parth-27/parth-27/master/Hi.gif" width="30px">
+## Hola , soy [DARO!](https://github.com/DaroPonce21) !! <img src="https://raw.githubusercontent.com/parth-27/parth-27/master/Hi.gif" width="30px">
 
 </h2>
 
 <hr/>
 
-## About Me
+## Te cuento sobre mi
 
-Hello, my name is Dario Ponce, I am a Full Stack Web developer. I am a technology enthusiast. I look forward to learning new skills and adding to the list.
+Hola, me llamo Dario Ponce, y soy un Full Stack Web developer. Tengo conocimientos en las tecnologias que veras a continuacion, las mismas las aprendi en el bootcamp Henry donde desarroye algunos proyectos que puedes ver entre mis repositorios, fueron unos 6 meses muy apacionantes de aprendisaje teorico practico muy buenos.
+Tambien curse 2 años de una Tecnicatura en Analista de Sistemas (lamentablemente el ultimo año no pude realizarlo debido a la pandemia de Covid y que por la misma la empresa para la que trabajaba cerro haciendome imposible seguir pagando... pero retomare pronto). Aun asi en esos 2 años tambien aprendi otras tecnologias y mucha logica.
+
+Soy un entuciasta del aprendisaje y los desafios, me gusta aprender nuevas tecnologias y poner en practica conocimientos nuevos y antiguos. Espero que podamos ponernos en contacto pronto.
 
 ## 𝗠𝘆 𝗧𝗲𝗰𝗸 𝗦𝘁𝗮𝗰𝗸
 
@@ -45,7 +48,7 @@ Hello, my name is Dario Ponce, I am a Full Stack Web developer. I am a technolog
 <hr>
 
 <h1 align="center">
-✨ Where you can find me ✨
+✨ Aca tienes mis contactos!! ✨
   
   <!-- https://img.shields.io/badge/Linkedin-Parth Patel-blue&?style=social&logo=linkedin -->
 
@@ -78,7 +81,9 @@ Hello, my name is Dario Ponce, I am a Full Stack Web developer. I am a technolog
 
 <hr>
 
-<h3>Thanks for Stopping by!! 😊</h3>
+<h3>Gracias por pasarte!! Contactame!! 😊</h3>
+
+
 
 
 
