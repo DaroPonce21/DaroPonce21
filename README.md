@@ -77,6 +77,9 @@ Una App de información canina con búsquedas, creación y guardado en base de d
   <a href="https://www.instagram.com/daroponce/">
     <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white">
   </a>
+  <a href="https://darioponceweb.vercel.app/">
+    <img src="https://img.shields.io/badge/Portafolio-%230A0A0A.svg?&style=flat-square&logo=vercel&logoColor=white">
+  </a>
 </p>
 </h1>
 <hr>
@@ -88,12 +91,3 @@ Una App de información canina con búsquedas, creación y guardado en base de d
 ## 🚀 ¡Vamos a colaborar!
 
 Estoy siempre abierto a nuevas oportunidades y colaboraciones en proyectos interesantes. No dudes en contactarme a través de [LinkedIn](https://www.linkedin.com/in/dario-ponce/) o [email](mailto:daroponce21@gmail.com).
-
-
-<h3>Gracias por pasarte!! Contactame!! 😊</h3>
-
-
-
-
-
----
