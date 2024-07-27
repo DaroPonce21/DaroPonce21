@@ -52,6 +52,28 @@ Soy un entusiasta del aprendizaje y los desafíos. Me gusta aprender nuevas tecn
 Un e-commerce de productos para mascotas que incluye autenticación, pasarela de pagos, búsquedas, filtrados y más.
 - **Tecnologías:** React.js, Redux, CSS, MaterialUI, Node.js, Express, PostgreSQL, Sequelize.
 - **[Video Demo](https://youtu.be/5fboDsE6vr0)**
+- **Imagenes del proyecto**
+<table>
+  <tbody>
+    <tr valign="top">
+      <td width="50%" align="center">
+        <img height="64px" src="https://darioponceweb.vercel.app/assets/1-hD4S4L6S.png">
+      </td>
+      <td width="50%" align="center">
+        <img height="64px" src="">
+      </td>
+    </tr>
+    <tr valign="top">
+      <td width="25%" align="center">
+        <img height="64px" src="https://darioponceweb.vercel.app/assets/5-mrG1BkAm.png">
+      </td>
+      <td width="25%" align="center">
+        <img height="64px" src="https://darioponceweb.vercel.app/assets/3-wze2Fc2s.png">
+      </td>
+    </tr>
+  </tbody>
+</table>
+  
 
 ### [CaninPedia](https://github.com/DaroPonce21/Canin-Pedia)
 Una App de información canina con búsquedas, creación y guardado en base de datos, filtrados y más.
