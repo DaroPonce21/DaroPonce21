@@ -16,35 +16,45 @@ Soy un entusiasta del aprendizaje y los desafíos. Me gusta aprender nuevas tecn
   <tbody>
     <tr valign="top">
       <td width="25%" align="center">
-        <span>𝗛𝗧𝗠𝗟𝟱</span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/html-5.svg">
+        <h3>Lenguajes</h3>
+        <span>HTML5</span><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/html-5.svg"><br><br>
+        <span>CSS3</span><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/css-3.svg"><br><br>
+        <span>JavaScript</span><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/javascript.svg"><br><br>
+        <span>Tailwind CSS</span><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/tailwindcss-icon.svg"><br><br>
       </td>
       <td width="25%" align="center">
-        <span>𝗖𝗦𝗦𝟯</span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/css-3.svg">
+        <h3>Frameworks (Front-End)</h3>
+        <span>React</span><br><br>
+        <img height="64px" src="https://cdn4.iconfinder.com/data/icons/logos-3/600/React.js_logo-512.png"><br><br>
+        <span>Redux</span><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/redux.svg"><br><br>
+        <span>React Router DOM</span><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/react-router.svg"><br><br>
       </td>
       <td width="25%" align="center">
-        <span>𝗝𝗮𝘃𝗮𝗦𝗰𝗿𝗶𝗽𝘁</span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/javascript.svg">
-      </td>
-    </tr>
-    <tr valign="top">
-      <td width="25%" align="center">
-        <span><strong>React</strong></span><br><br><br>
-        <img height="64px" src="https://cdn4.iconfinder.com/data/icons/logos-3/600/React.js_logo-512.png">
-      </td>
-      <td width="25%" align="center">
-        <span>𝗚𝗶𝘁</span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/git-icon.svg">
+        <h3>Frameworks (Back-End)</h3>
+        <span>NodeJs</span><br><br>
+        <img height="64px" src="https://img.icons8.com/color/2x/nodejs.png"><br><br>
+        <span>Express</span><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/express.svg"><br><br>
+        <span>Axios</span><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/axios.svg"><br><br>
       </td>
       <td width="25%" align="center">
-        <span>NodeJs</span><br><br><br>
-        <img height="64px" src="https://img.icons8.com/color/2x/nodejs.png">
+         <h3>Bases de Datos</h3>
+        <span>PostgreSQL</span><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/postgresql.svg"><br><br>
+        <span>MongoDB</span><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/mongodb-icon.svg"><br><br>
       </td>
-    </tr>
   </tbody>
 </table>
 <hr>
+
 
 ## Proyectos Destacados
 
@@ -57,18 +67,18 @@ Un e-commerce de productos para mascotas que incluye autenticación, pasarela de
   <tbody>
     <tr valign="top">
       <td width="50%" align="center">
-        <img height="64px" src="https://darioponceweb.vercel.app/assets/1-hD4S4L6S.png">
+        <img width="auto" src="https://darioponceweb.vercel.app/assets/1-hD4S4L6S.png">
       </td>
       <td width="50%" align="center">
-        <img height="64px" src="">
+        <img width="auto" src="https://darioponceweb.vercel.app/assets/3-wze2Fc2s.png">
       </td>
     </tr>
     <tr valign="top">
-      <td width="25%" align="center">
-        <img height="64px" src="https://darioponceweb.vercel.app/assets/5-mrG1BkAm.png">
+      <td width="50%" align="center">
+        <img width="auto" src="https://darioponceweb.vercel.app/assets/5-mrG1BkAm.png">
       </td>
-      <td width="25%" align="center">
-        <img height="64px" src="https://darioponceweb.vercel.app/assets/3-wze2Fc2s.png">
+      <td width="50%" align="center">
+        <img width="auto" src="https://darioponceweb.vercel.app/assets/3-wze2Fc2s.png">
       </td>
     </tr>
   </tbody>
@@ -79,7 +89,27 @@ Un e-commerce de productos para mascotas que incluye autenticación, pasarela de
 Una App de información canina con búsquedas, creación y guardado en base de datos, filtrados y más.
 - **Tecnologías:** React.js, Redux, CSS, Node.js, Express, PostgreSQL, Sequelize.
 - **[Video Demo](https://youtu.be/BOQ5OSzuXOE)**
-
+- **Imagenes del proyecto**
+<table>
+  <tbody>
+    <tr valign="top">
+      <td width="50%" align="center">
+        <img width="auto" src="https://darioponceweb.vercel.app/assets/1-AwCQQ0_2.png">
+      </td>
+      <td width="50%" align="center">
+        <img width="auto" src="https://darioponceweb.vercel.app/assets/2-jolqrZ97.png">
+      </td>
+    </tr>
+    <tr valign="top">
+      <td width="50%" align="center">
+        <img width="auto" src="https://darioponceweb.vercel.app/assets/3-sG5LjbmL.png">
+      </td>
+      <td width="50%" align="center">
+        <img width="auto" src="https://darioponceweb.vercel.app/assets/4-i2iwFonB.png">
+      </td>
+    </tr>
+  </tbody>
+</table>
 <hr>
 
 <h1 align="center">
