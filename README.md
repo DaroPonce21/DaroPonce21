@@ -1,17 +1,16 @@
-## Hola , soy [DARO!](https://github.com/DaroPonce21) !! <img src="https://raw.githubusercontent.com/parth-27/parth-27/master/Hi.gif" width="30px">
-
-</h2>
+## Hola, soy [DARO!](https://github.com/DaroPonce21) !! <img src="https://raw.githubusercontent.com/parth-27/parth-27/master/Hi.gif" width="30px">
 
 <hr/>
 
-## Te cuento sobre mi
+## Te cuento sobre mí
 
-Hola, me llamo Dario Ponce, y soy un Full Stack Web developer. Tengo conocimientos en las tecnologias que veras a continuacion, las mismas las aprendi en el bootcamp Henry donde desarroye algunos proyectos que puedes ver entre mis repositorios, fueron unos 6 meses muy apacionantes de aprendisaje teorico practico muy buenos.
-Tambien curse 2 años de una Tecnicatura en Analista de Sistemas (lamentablemente el ultimo año no pude realizarlo debido a la pandemia de Covid y que por la misma la empresa para la que trabajaba cerro haciendome imposible seguir pagando... pero retomare pronto). Aun asi en esos 2 años tambien aprendi otras tecnologias y mucha logica.
+Hola, me llamo Dario Ponce, y soy un Full Stack Web Developer. Tengo conocimientos en las tecnologías que verás a continuación, las cuales aprendí en el bootcamp Henry, donde desarrollé algunos proyectos que puedes ver entre mis repositorios. Fueron unos 6 meses muy apasionantes de aprendizaje teórico y práctico.
 
-Soy un entuciasta del aprendisaje y los desafios, me gusta aprender nuevas tecnologias y poner en practica conocimientos nuevos y antiguos. Espero que podamos ponernos en contacto pronto.
+También cursé 2 años de una Tecnicatura en Analista de Sistemas. Lamentablemente, no pude finalizar el último año debido a la pandemia de Covid-19 y al cierre de la empresa donde trabajaba, lo que me impidió seguir pagando los estudios. Sin embargo, planeo retomarlos pronto. Durante esos 2 años, también aprendí otras tecnologías y desarrollé una sólida lógica de programación.
 
-## 𝗠𝘆 𝗧𝗲𝗰𝗸 𝗦𝘁𝗮𝗰𝗸
+Soy un entusiasta del aprendizaje y los desafíos. Me gusta aprender nuevas tecnologías y poner en práctica conocimientos nuevos y antiguos. Espero que podamos ponernos en contacto pronto.
+
+## 𝗠𝗶 𝗧𝗲𝗰𝗵 𝗦𝘁𝗮𝗰𝗸
 
 <table>
   <tbody>
@@ -29,16 +28,16 @@ Soy un entuciasta del aprendisaje y los desafios, me gusta aprender nuevas tecno
         <img height="64px" src="https://cdn.svgporn.com/logos/javascript.svg">
       </td>
     </tr>
-    <td width="25%" align="center">
-        <span><strong>React</strong>
-        </span><br><br><br>
+    <tr valign="top">
+      <td width="25%" align="center">
+        <span><strong>React</strong></span><br><br><br>
         <img height="64px" src="https://cdn4.iconfinder.com/data/icons/logos-3/600/React.js_logo-512.png">
       </td>
       <td width="25%" align="center">
         <span>𝗚𝗶𝘁</span><br><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/git-icon.svg">
       </td>
-       <td width="25%" align="center">
+      <td width="25%" align="center">
         <span>NodeJs</span><br><br><br>
         <img height="64px" src="https://img.icons8.com/color/2x/nodejs.png">
       </td>
@@ -47,39 +46,49 @@ Soy un entuciasta del aprendisaje y los desafios, me gusta aprender nuevas tecno
 </table>
 <hr>
 
+## Proyectos Destacados
+
+### [Pets Love](https://github.com/DaroPonce21/Pet-store-ecommerce)
+Un e-commerce de productos para mascotas que incluye autenticación, pasarela de pagos, búsquedas, filtrados y más.
+- **Tecnologías:** React.js, Redux, CSS, MaterialUI, Node.js, Express, PostgreSQL, Sequelize.
+- **[Video Demo](https://youtu.be/5fboDsE6vr0)**
+
+### [CaninPedia](https://github.com/DaroPonce21/Canin-Pedia)
+Una App de información canina con búsquedas, creación y guardado en base de datos, filtrados y más.
+- **Tecnologías:** React.js, Redux, CSS, Node.js, Express, PostgreSQL, Sequelize.
+- **[Video Demo](https://youtu.be/BOQ5OSzuXOE)**
+
+<hr>
+
 <h1 align="center">
-✨ Aca tienes mis contactos!! ✨
-  
-  <!-- https://img.shields.io/badge/Linkedin-Parth Patel-blue&?style=social&logo=linkedin -->
-
-  <!-- https://img.shields.io/badge/Github-Parth%20Patel-black&?style=social&logo=Github -->
-
-  <!-- https://img.shields.io/badge/Facebook-Parth%20Patel-darkblue&?style=social&logo=Facebook -->
-
-  <!-- https://img.shields.io/badge/Instagram-parth.__.27-red&?style=social&logo=Instagram -->
-
-  <!-- https://img.shields.io/badge/Twitter-Parth%20Patel-blue&?style=social&logo=Twitter -->
+✨ ¡Aquí tienes mis contactos! ✨
 
 <p align="center">
   <br/>
-  <a href='daroponce21@gmail.com'>
-    <img src='https://img.shields.io/badge/-DaroPonce21-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:daroponce21@gmail.com'>
+  <a href="mailto:daroponce21@gmail.com">
+    <img src="https://img.shields.io/badge/-DaroPonce21-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:daroponce21@gmail.com">
   </a>
   <a href="https://www.linkedin.com/in/dario-ponce/">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white">
   </a>
-  
   <a href="https://github.com/DaroPonce21">
     <img src="https://img.shields.io/badge/Github-%230A0A0A.svg?&style=flat-square&logo=Github&logoColor=white">  
   </a>
- 
   <a href="https://www.instagram.com/daroponce/">
     <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white">
   </a>
 </p>
 </h1>
-
 <hr>
+
+## 📊 Mis estadísticas de GitHub
+
+![Tus estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=DaroPonce21&show_icons=true&theme=radical)
+
+## 🚀 ¡Vamos a colaborar!
+
+Estoy siempre abierto a nuevas oportunidades y colaboraciones en proyectos interesantes. No dudes en contactarme a través de [LinkedIn](https://www.linkedin.com/in/dario-ponce/) o [email](mailto:daroponce21@gmail.com).
+
 
 <h3>Gracias por pasarte!! Contactame!! 😊</h3>
 
