@@ -138,7 +138,7 @@ Una App de información canina con búsquedas, creación y guardado en base de d
 
 ## 📊 Mis estadísticas de GitHub
 
-![Tus estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=DaroPonce21&show_icons=true&theme=radical)
+![Estadisticas de Daro en GitHub](https://github-readme-stats.vercel.app/api?username=DaroPonce21&show_icons=true&theme=radical)
 
 ## 🚀 ¡Vamos a colaborar!
 
